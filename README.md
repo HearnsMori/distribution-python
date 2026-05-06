@@ -59,6 +59,8 @@ StudentsPerformance.csv
 KaggleV2-May-2016.csv
 ```
 
+Note: Not to worry I also pushed the csv file so nothing to do here anymore.
+
 ---
 
 ## Installation
@@ -66,8 +68,8 @@ KaggleV2-May-2016.csv
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/distribution-gallery.git
-cd distribution-gallery
+git clone https://github.com/yourusername/distribution-python.git
+cd distribution-python
 ```
 
 ### 2. Create virtual environment (recommended)
